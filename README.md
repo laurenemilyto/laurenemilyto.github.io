@@ -1,2 +1,2 @@
-# laurenemilyto.github.io
-Personal site
+# Portfolio Site
+Build with Bootstrap, custom CSS, HTML and Javascript. 
